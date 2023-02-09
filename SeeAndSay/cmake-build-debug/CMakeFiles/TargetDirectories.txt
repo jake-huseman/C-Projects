@@ -1,0 +1,3 @@
+/Users/jake/CLionProjects/SeeAndSay/cmake-build-debug/CMakeFiles/SeeAndSay.dir
+/Users/jake/CLionProjects/SeeAndSay/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jake/CLionProjects/SeeAndSay/cmake-build-debug/CMakeFiles/rebuild_cache.dir
