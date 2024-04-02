@@ -1,2 +1,4 @@
-1.09
-Pokemon Battles
+Final push of my Pokemon project. Please see CHANGELOG for info.
+To use, please run on a linux machine with ncurses installed. 
+make all
+./main 

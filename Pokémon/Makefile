@@ -1,4 +1,4 @@
-TARGET = poke
+TARGET = main
 LIBS = -lm -lncurses
 CC = gcc
 CXX = g++

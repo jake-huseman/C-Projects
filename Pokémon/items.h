@@ -36,7 +36,7 @@ const char item_name_txt[num_items][13] {
   "ELIXIR",
   "MAX ELIXIR",
   "REVIVE",
-  "MAX REVIVE",
+  "MAX REVIVE"
 };
 
 const char item_desc_txt[num_items * 2][MAX_COL + 1] {
