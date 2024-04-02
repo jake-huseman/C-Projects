@@ -1,0 +1,46 @@
+1/27 - Started project began working on pesudocode and generating edge/boarder of the map.
+1/28 - Finished edge/boarder of map. Began working on filling empty spaces with some sort of terrian.
+1/29 - Worked on filling map with terrian.
+1/30 - Finished working on filling map with terrian. Began Working on making paths.
+1/31 - Finished working on paths and worked on generating a random spot for the pokemart and pokecenter.
+
+2/1/2023 - Breifly looked over professors solutions and decided to implement his solution. Set up project 1.02 and began working on psudocode.
+2/2/2023 - Created my full map which is a 2D array of 399/399 maps.
+2/5/2023 - Wasn't able to work on it much the past couple days because of preparing for interviews and carrerfair but briefly worked on understanding malloc better and assigning memory spots to my map.
+2/6/2023 - Worked on implementing directions and flying to a certian maps coords.
+2/7/2023 - Worked on fixing bugs and trying to make it correctly respond to my commands.
+2/8/2023 - Worked on bugs and continuted working on responding to commands correctly. Lot of issues and weird bugs I haven't been able to solve.
+
+2/13/2023 - Took professors solutions and looked over the assignment. Began working on implementing PC.
+2/14/2023 - Made PC and the two NPC's a terrian type but I think I may have to change that in the future to avoid issues. Printing distance maps semi working.
+2/15/2023 - Distance maps implemented for rival and hikers using Dijkstra's algorithm.
+
+2/20/2023 - Using professors solution, I began working on this assignment.
+2/22/2023 - Started implemnting other terrian types and working on movement for the NPC types.
+2/23/2023 - Still working on movement.
+2/26/2023 - Finished working on movement.
+2/28/2023 - Realized that my PC moves to random maps and not just around on the same map so been trying to figure out how to deal with that.
+3/1/2023 - My PC is just moving nsew randomly but all of the character types move accordingly to their distance maps.
+
+3/13/2023 - Began working on assignment, implementing professors solution. 
+3/15/2023 - Started testing and messing around with ncurses.
+3/18/2023 - Worked on PC movement.
+3/19/2023 - Worked on battle collisions. 
+3/21/2023 - Finished working on all collisions.
+
+3/23/2023 - Changed all classes to cpp.
+3/24/2023 - Added Map, Character, Player, Trainer, World classes.
+3/26/2023 - Changed c to cpp code
+3/28/2023 - Added the ability to fly. Already had the ability to move PC to other maps from previous assignment!
+
+3/30/2023 - Implemented parsing
+4/03/2023 - Implemented printing
+
+4/4/2023 - Added in the wild pokemon encounter placeholder 
+4/5/2023 - Added pokedex database
+4/6/2023 - Added Pokemon Class
+
+4/13/2023 - Implemented item mechanics.
+4/14/2023 - Implemented trainer battles.
+4/15/2023 - Implemented type effectiveness. Pokemon can now level up. Pokemon will now learn moves when they levelup, according to thier learnset.
+4/16/2023 - Pokemon now gain exp for fainting pokemon. Added poke dollars. Trainers will now pay poke dollars when defeated.
